@@ -1,16 +1,10 @@
 # projeto_perguntas
 
-A new Flutter project.
+Projeto desenvolvido no curso de Flutter da Cod3r.
 
-## Getting Started
+#dart 
+#flutter
 
-This project is a starting point for a Flutter application.
+- ![  Print](https://github.com/jaquelinesilfe/projeto_perguntas/blob/e9553b5c0d7e00c9bf5e2aab67f23e6c1e74d6db/tela_projeto.PNG)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
